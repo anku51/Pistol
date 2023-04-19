@@ -16,6 +16,8 @@ public static void main(String[] args) {
 	System.out.println("================");
 	non_static_block n2 = new non_static_block();
 	System.out.println("================");
+	non_static_block n3 = new non_static_block();
+	System.out.println("================");
 }
 {
 	System.out.println("Non Static block - 2");

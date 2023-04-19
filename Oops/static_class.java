@@ -2,12 +2,12 @@ package Oops;
 
 public class static_class {
 
-	static int i = 12;
+	static int i = 189;
 	static int j;
 	static {
 		System.out.println("Static block - 1"+i+"  &  "+j);
 		i = test();
-		i = 68;
+		i = 8;
 		
 	}
 	public static void main(String[] args) {

@@ -2,10 +2,10 @@ package Oops;
 
 public class static_variable {
 
-	static int a = 24;
+	static int a = 214;
 	public static void main(String[] args) {
 		System.out.println(a);
-		a = 45;
+		a = 145;
 		System.out.println(a);
 		int a = 67;
 		System.out.println(a);

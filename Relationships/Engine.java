@@ -14,7 +14,8 @@ public class Engine {
 		this.type = type;
 	}
 	public void start() {
-		System.out.println("Start the engine.");
+		System.out.println("Start the engine");
+		System.out.println("====================");
 	}
 	
 
